@@ -14,6 +14,7 @@
 // alert(`Min number - ${result} \n Max number - ${result2}`);
 
 
+// dars
 
 let arr = [2, 4, 9, 10, 45, 67, 8, 90]
 var res = arr.filter((v, i, a) => v % 2 == 0)
